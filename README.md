@@ -17,21 +17,31 @@
 [使用js代替jQuery(2)](https://juejin.im/post/5d2705d8e51d4577407b1dda)
 
 
-[Carbon (代码图片)](https://carbon.now.sh)
+## 代码转图片
 
-[codeimg (代码图片)](https://codeimg.io/)
+[Carbon](https://carbon.now.sh)
 
-
-[feed43 (RSS 生成)](https://feed43.com)
-
-[rsshub (RSS 生成)](https://docs.rsshub.app/) :octocat:
+[codeimg](https://codeimg.io/)
 
 
-[squoosh (图像压缩)(Google开发)](https://squoosh.app/) :octocat:
+## RSS 生成
 
-[picdiet (图像压缩)](https://www.picdiet.com/)
+[feed43](https://feed43.com) 支持自制 rss
+
+[rsshub](https://docs.rsshub.app/) :octocat:
 
 
-[imglarger (AI 图片放大)](http://imglarger.com/Tw)
+## 图像压缩
 
-[bigjpg (AI 图片放大)](http://bigjpg.com/)
+[squoosh](https://squoosh.app/) :octocat: Google开发，一次只能处理一张，可自定义压缩
+
+[picdiet](https://www.picdiet.com/) js本地压缩，不需上传，一次只能处理一张，不过似乎只能处理jpg，
+
+[tinypng](https://tinypng.com/) 支持批量处理
+
+
+## AI 图片放大
+
+[imglarger](http://imglarger.com/Tw)
+
+[bigjpg](http://bigjpg.com/)
